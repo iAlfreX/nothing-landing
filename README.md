@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Проєкт "Nothing Landing" - це стильний та сучасний лендінг, розроблений для презентації нового продукту. У ньому використовуються HTML, CSS та SCSS для розмітки та стилізації відповідно. Для організації CSS класів використано методологію BEM (Block Element Modifier).
+
+Посилання на прев'ю проекту: Nothing Landing Preview
+
+Посилання на макет у Figma: BOSE New Version
+
+Для запуску проекту, вам необхідно виконати наступні кроки:
+
+Встановіть всі залежності за допомогою команди npm i.
+Запустіть проект за допомогою команди npm start.
+Щоб перевірити написаний код, використайте команду npm run lint.
+Для розгортання проекту на GitHub Pages використовуйте команду npm run deploy.
